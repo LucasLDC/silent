@@ -1,0 +1,6 @@
+moviepy==1.0.3
+librosa
+pydub
+noisereduce
+scipy
+soundfile
